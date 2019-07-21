@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.202" height="37.202" viewBox="0 0 37.202 37.202">
+  <g id="Group_4" data-name="Group 4" transform="translate(0.5 0.5)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="36.202" height="36.202" rx="1.187" transform="translate(0 0)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_9" data-name="Path 9" d="M151.32,287.755h4.824V295h-7.656v-4.409A2.832,2.832,0,0,1,151.32,287.755Z" transform="translate(-148.488 -287.755)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="7.657" height="7.24" transform="translate(0 7.24)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="7.657" height="7.24" transform="translate(0 14.481)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="7.657" height="7.24" transform="translate(0 21.721)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_10" data-name="Path 10" d="M148.488,313.018h7.656v7.24H151.32a2.832,2.832,0,0,1-2.832-2.832Z" transform="translate(-148.488 -284.056)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_11" data-name="Path 11" d="M173.387,287.755h4.825a2.832,2.832,0,0,1,2.832,2.832V295h-7.657Z" transform="translate(-144.842 -287.755)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="7.657" height="7.24" transform="translate(28.545 7.24)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="7.657" height="7.24" transform="translate(28.545 14.481)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="7.657" height="7.24" transform="translate(28.545 21.721)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_12" data-name="Path 12" d="M173.387,313.018h7.657v4.408a2.832,2.832,0,0,1-2.832,2.832h-4.825Z" transform="translate(-144.842 -284.056)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_13" data-name="Path 13" d="M170.318,304.308l-11-5.984v12.191Z" transform="translate(-146.902 -286.208)" fill="none" stroke="#6b6d6c" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

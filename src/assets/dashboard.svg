@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.722" height="37.722" viewBox="0 0 37.722 37.722">
+  <g id="Group_3" data-name="Group 3" transform="translate(0.5 0.5)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="36.722" height="36.722" rx="2.372" transform="translate(0 0)" fill="rgba(0,0,0,0)" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_1" data-name="Line 1" x2="36.722" transform="translate(0 11.2)" fill="none" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="5.55" cy="5.55" r="5.55" transform="translate(12.811 16.453)" fill="rgba(0,0,0,0)" stroke="#6b6d6c" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x1="3.404" y1="3.598" transform="translate(22.366 25.838)" fill="none" stroke="#6b6d6c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="1.536" cy="1.536" r="1.536" transform="translate(4.906 4.708)" fill="#6b6d6c" stroke="#6b6d6c" stroke-width="1"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="1.536" cy="1.536" r="1.536" transform="translate(10.556 4.708)" fill="#6b6d6c" stroke="#6b6d6c" stroke-width="1"/>
+  </g>
+</svg>
