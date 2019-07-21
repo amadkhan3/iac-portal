@@ -1,9 +1,5 @@
 <template>
     <div class="sidebar" >
-        <!-- <div class="sidebar-logo">
-            <img src="@/assets/logo_iac.png">
-        </div> -->
-
         <div class="sidebar-item active">
             <img class="sidebar-item-icon" src="@/assets/dashboard.svg">
             <span class="sidebar-item-title">Dashboard</span>
@@ -62,17 +58,6 @@ export default {
     background-color: #F4F6FA;
     border-right: 1px solid #EEF0F2;
 }
-
-/* .sidebar-logo {
-    border-bottom: 1px solid #EEF0F2;
-    padding: 7px;
-    height: 60px;
-    width:100%;
-    margin-bottom:15px;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-} */
 
 .sidebar-item {
     height:115px;

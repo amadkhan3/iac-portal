@@ -1,43 +1,16 @@
 <template>
   <div id="app">
-    <b-row>
-      <b-col style="z-index:1000;">
-        <Header />
-      </b-col>
-    </b-row>
-    <b-row no-gutter>
-      <b-col cols="2">
-        <Sidebar />
-      </b-col>
-      <b-col cols="10">
-        <Content />
-      </b-col>
-    </b-row>
+    <layout-view />
   </div>
 </template>
 
 <script>
-
-import Sidebar from './components/layout/Sidebar'
-import Content from './components/layout/Content.vue'
-import Header from './components/layout/Header.vue'
+import LayoutView from './views/LayoutView.vue'
 
 export default {
   name: 'app',
   components: {
-    Sidebar,
-    Content,
-    Header
-  },
-  data () {
-    return {
-      menu: [
-          {
-              header: true,
-              title: 'Main Navigation',
-          },
-      ]
-    }
+    LayoutView,
   }
 }
 </script>

@@ -12,7 +12,7 @@
             <b-col class="header-profile-section" cols="2">
                 <img class="header-avatar" src="@/assets/avatar2.png">
                 <div class="header-user">
-                    <p class="header-user-username">Boob Marwaly</p>
+                    <p class="header-user-username">Bob Marley</p>
                     <p class="header-user-role">member</p>
                 </div>
                 <img class="header-profile-dropdown-button" src="@/assets/down-arrow.svg">
